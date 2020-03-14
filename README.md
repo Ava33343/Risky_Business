@@ -50,7 +50,7 @@ Use the above to answer the following:
 >
 > Which model had the best geometric mean score?
 
-![decision_tree](Images/decision_tree.png)
+![decision_tree](Answers/Images/decision_tree.png)
 
 
 #### Ensemble Learning
@@ -77,7 +77,7 @@ Use the above to answer the following:
 
 - - -
 ### _Discussion_
-![GradientBoosting_tree](Images/GradientBoosting_tree.png)
+![GradientBoosting_tree](Answers/Images/GradientBoosting_tree.png)
 
 
 
